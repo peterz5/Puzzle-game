@@ -20,8 +20,6 @@ import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-//Is the editing option working? 
-
 public class Gameplay extends JPanel implements KeyListener, ActionListener {
 	private boolean play = false; 
 	private Timer timer; 
